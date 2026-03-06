@@ -1,4 +1,4 @@
 # swe1-app
 Testing CI pipeline
 stuff
-ztest1
+ztest2
