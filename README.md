@@ -1,4 +1,3 @@
 # swe1-app
-Testing CI pipeline
-stuff
-ztest2
+[![Build Status](https://travis-ci.com/Nyang-Lin-Phyo/swe1-app.svg?branch=main)](https://travis-ci.com/Nyang-Lin-Phyo/swe1-app)
+[![Coverage Status](https://coveralls.io/repos/github/Nyang-Lin-Phyo/swe1-app/badge.svg?branch=main)](https://coveralls.io/github/Nyang-Lin-Phyo/swe1-app?branch=main)
