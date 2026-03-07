@@ -25,7 +25,5 @@ deploy:
   bucket_name: "elasticbeanstalk-us-east-1-180382394287"
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
-  skip_cleanup: true
-  acl: private
   on:
     branch: main
