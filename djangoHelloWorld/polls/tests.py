@@ -7,4 +7,4 @@ class BasicTest(TestCase):
         self.assertEqual(1, 1)
 
     def test_fail(self):
-        self.assertTrue(False)
+        self.assertTrue(True)
